@@ -6,7 +6,7 @@ Created on Sat Dec  9 08:47:16 2023
 @author: jachym
 """
 
-with open("input.txt", "r") as file:
+with open("/home/jachym/Filen/Programming/Projects/Temp/AdventOfCode2023/day09/input.txt", "r") as file:
     lines = file.readlines()
 
 def prediction(input):
